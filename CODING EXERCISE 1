@@ -1,0 +1,33 @@
+package Exercise;
+
+public class DailySchedule {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("6:30 to 6:45 : wake up and subuh");
+		System.out.println();
+		System.out.println("7:30 to 8:00 : take a shower");
+		System.out.println();
+		System.out.println("8:15 : have a breakfast");
+		System.out.println();
+		System.out.println("8:30 to 12:30 : class ");
+		System.out.println();
+		System.out.println(" 12:30 to 13:00 : lunch");
+		System.out.println();
+		System.out.println("13:00 to 13:30 : take a shower and prepare for zohor");
+		System.out.println();
+		System.out.println("14:30 to 17:30 : class");
+		System.out.println();
+		System.out.println("17:30 to 18:30 : brisk walk");
+		System.out.println();
+		System.out.println("20:00 to 20:30: dinner");
+		System.out.println();
+		System.out.println("21:00 to 00:00: study and prepare for toworrow");
+		
+			
+		
+			
+	}
+
+}
